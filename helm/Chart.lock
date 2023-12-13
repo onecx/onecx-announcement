@@ -1,0 +1,6 @@
+dependencies:
+- name: onecx-announcement-svc
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.0.0-rc.3
+digest: sha256:d0594bf62c2df28d60d2c3b42247052deeeceb8e7de5f6becb584d4b8a9ebaf8
+generated: "2023-12-13T19:16:56.560103043+01:00"
