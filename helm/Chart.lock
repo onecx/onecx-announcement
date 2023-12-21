@@ -4,6 +4,6 @@ dependencies:
   version: 0.0.0
 - name: onecx-announcement-svc
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.4
-digest: sha256:81fe060e8647dc6f9d4de1f43cd175bb1bfc90c6127b02acd6a773b060ccd909
-generated: "2023-12-21T16:58:47.445515087+01:00"
+  version: 0.0.0-rc.5
+digest: sha256:8e3f4e8016a3bf2060aedbbc24e908a0a452e1b0ae654d3e906bf659c4892695
+generated: "2023-12-21T16:03:28.646661052Z"
