@@ -4,8 +4,8 @@ deployment:
 product:
   info:
     data:
-      description: "Announcement"
+      description: "OneCX Announcement"
       imageUrl: ""
       iconName: "bullhorn"
-      dispalyName: "Onecx announcement"
+      displayName: "OneCX Snnouncement"
       basePath: "/announcement"
