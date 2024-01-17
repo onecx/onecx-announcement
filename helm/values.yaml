@@ -1,5 +1,7 @@
 deployment:
   svc: true
+  bff: true
+  ui: true
 
 product:
   info:
@@ -7,5 +9,5 @@ product:
       description: "OneCX Announcement"
       imageUrl: ""
       iconName: "bullhorn"
-      displayName: "OneCX Snnouncement"
+      displayName: "OneCX Announcement"
       basePath: "/announcement"
