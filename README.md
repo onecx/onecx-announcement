@@ -1,2 +1,2 @@
 # onecx-announcement
-OneCx Announcement
+OneCX Announcement
