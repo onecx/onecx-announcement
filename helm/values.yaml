@@ -8,6 +8,6 @@ product:
     data:
       description: "OneCX Announcement"
       imageUrl: ""
-      iconName: "bullhorn"
+      iconName: "comment"
       displayName: "OneCX Announcement"
       basePath: "/announcement"
