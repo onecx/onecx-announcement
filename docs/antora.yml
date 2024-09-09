@@ -1,8 +1,10 @@
 name: onecx-announcement
 title: Announcement Management
 version: latest
-start_page: onecx-announcement:index.adoc
+start_page: general:index.adoc
 nav:
-  - modules/onecx-announcement/nav.adoc
-  - modules/onecx-announcement-svc/nav.adoc
-  - modules/onecx-announcement-bff/nav.adoc
+ - modules/general/nav.adoc
+ - modules/onecx-announcement-ui/nav.adoc
+ - modules/onecx-announcement-bff/nav.adoc
+ - modules/onecx-announcement-svc/nav.adoc
+ 
