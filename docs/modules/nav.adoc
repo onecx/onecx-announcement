@@ -1,1 +1,0 @@
-* xref:onecx-announcement:index.adoc[Announcement Management]
