@@ -1,5 +1,46 @@
 = OneCX Announcement Management
 
+.Announcement UI
+image::overview.png[]
+
+== Overview
+The Announcement Management feature is designed to facilitate the dissemination of important information across a platform. It supports various types of announcements, such as system maintenance notifications, general information, and achievements. This feature ensures that users are always informed about critical updates and events. Key Features includes:
+
+*Platform-Wide Announcements*:
+
+* System Maintenance: Allows administrators to post announcements about system maintenance, ensuring users are aware of any scheduled downtimes or updates.
+* General Information: Provides a channel for sharing other important information, such as policy changes or new feature releases.
+* Achievements: Highlights significant achievements or milestones, fostering a sense of community and engagement.
+
+*Workspace-Specific Announcements*:
+
+* Targeted Messaging: Enables the placement of announcements for specific workspaces, ensuring that relevant information reaches the appropriate audience.
+* Flexible Distribution: Supports sending announcements to all workspaces simultaneously, making it easy to communicate platform-wide updates.
+
+*Application-Specific Announcements*:
+
+* Dedicated Announcements: Allows for the creation of announcements specific to individual applications, ensuring users of those apps receive pertinent information.
+
+*Important Announcements*:
+
+* High Visibility: Important announcements, such as system maintenance notifications, are displayed prominently in a micro frontend and visualized by the shell on any page of the portal. This ensures that critical information is always visible to users.
+
+*Administrative Controls*:
+
+* Easy Management: Provides administrators with tools to create, edit, and manage announcements efficiently.
+* Scheduling: Allows for the scheduling of announcements to be posted at specific times, ensuring timely communication.
+
+== Benefits
+* Enhanced Communication: Ensures that important information is effectively communicated to all users, reducing confusion and improving awareness.
+* Targeted Messaging: Allows for targeted announcements, ensuring that users receive information relevant to their specific workspaces or applications.
+* High Visibility: Important announcements are prominently displayed, ensuring that critical updates are not missed.
+* Administrative Efficiency: Streamlines the process of managing announcements, saving time and resources for administrators.
+
+== UI Examples
+
+.Announcement configuration
+image::announcement_configuration.png[]
+
 == Licence
 This software is licensed under the Apache License, Version 2.0.
 You may obtain a copy of the license in the corresponding LICENSE file or visit the link:https://www.apache.org/licenses/LICENSE-2.0[Apache website] for more information.
@@ -8,17 +49,10 @@ You may obtain a copy of the license in the corresponding LICENSE file or visit 
 We welcome contributions from the community.
 If you would like to contribute to the development of OneCX Announcement Management Software, please follow our contribution guidelines (tbd).
 
-== What is Announcement Management
-Announcement management refers to storing and retrieving Announcement items usable in context of OneCX applications.
-
-== Key Features
-
-* Announcement Item Storage and Retrieval: Store and retrieve Announcement items usable in context of OneCX applications.
-
-== Issue tracking
+== Issue Tracking
 All OneCX Announcement Management issues are tracked and maintained at the link:https://xyz.com[issue tracking tool].
 
-== Overview
+== Structure Overview
 OneCX Announcement Management Software is a comprehensive solution for managing Announcement items in a user-friendly and efficient manner.
 It is a solution that consists of three main components: a backend service, a user interface and a backend-for-frontend (BFF) layer.
 
