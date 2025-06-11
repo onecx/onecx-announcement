@@ -6,8 +6,10 @@ deployment:
 product:
   info:
     data:
-      description: "OneCX Announcement"
+      description: "Manage Announcements"
       imageUrl: ""
-      iconName: "comment"
+      iconName: comment
       displayName: "OneCX Announcement"
-      basePath: "/announcement"
+      basePath: /announcement
+      provider: "OneCX Team"
+      classifications: [ "Administration" ]
