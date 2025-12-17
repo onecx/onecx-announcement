@@ -1,4 +1,7 @@
 = OneCX Announcement Management
+:idprefix:
+:idseparator: -
+:imagesdir: ../images
 
 .Announcement UI
 image::overview.png[]
