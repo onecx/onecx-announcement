@@ -4,12 +4,12 @@ dependencies:
   version: 0.4.0
 - name: onecx-announcement-svc
   repository: oci://ghcr.io/onecx/charts
-  version: 1.8.0-rc.15
+  version: 1.8.0-rc.16
 - name: onecx-announcement-bff
   repository: oci://ghcr.io/onecx/charts
   version: 1.8.0-rc.15
 - name: onecx-announcement-ui
   repository: oci://ghcr.io/onecx/charts
   version: 1.7.0-rc.21
-digest: sha256:7a20fb4aedded8c4ae61f4a3b6fc601072e67ef6a780fd873f1cbd1c398d91fc
-generated: "2025-12-19T01:32:34.845735506Z"
+digest: sha256:b9ff7ca772b8710fdcff53f29c825fb274673a7842f8abe1e7275dcd0f184b22
+generated: "2025-12-19T10:49:06.524258997Z"
