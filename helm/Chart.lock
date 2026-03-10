@@ -7,9 +7,9 @@ dependencies:
   version: 1.10.0-rc.6
 - name: onecx-announcement-bff
   repository: oci://ghcr.io/onecx/charts
-  version: 1.10.0-rc.5
+  version: 1.10.0-rc.6
 - name: onecx-announcement-ui
   repository: oci://ghcr.io/onecx/charts
   version: 1.8.0-rc.6
-digest: sha256:d05355b06ec51e2ec715b5cb808d1d323ee70c99acacfb34e57840e2bde8ad3e
-generated: "2026-03-10T01:46:59.375489979Z"
+digest: sha256:a13c22a27c034dde2834217fa106ec183d5557467e9b890c7ade2f86351c7453
+generated: "2026-03-10T12:18:30.193254643Z"
